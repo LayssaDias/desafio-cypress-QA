@@ -31,8 +31,9 @@ Após a instalação das dependências, você pode executar os testes de duas ma
 
 Este modo é ideal para desenvolvimento, debug e visualização passo a passo:
 
-bash
+```bash
 npx cypress open
+```
 
 
 Selecione o navegador e o arquivo de teste login.cy.js (ou similar) para iniciar a execução.Modo Headless (Linha de Comando)Este modo é ideal para execução em ambientes de CI/CD ou para relatórios rápidos. Os resultados serão exibidos no terminal:Bashnpx cypress run
