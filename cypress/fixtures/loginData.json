@@ -1,0 +1,7 @@
+{
+  "errorMessages": {
+    "invalidPassword": "Erro: A senha fornecida para o e-mail layssa.fdias+lojaebac@gmail.com está incorreta. Perdeu a senha?",
+    "unknownEmail": "Endereço de e-mail desconhecido",
+    "emptyFields": "Erro: Nome de usuário é obrigatório."
+  }
+}

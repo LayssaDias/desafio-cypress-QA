@@ -1,0 +1,14 @@
+{
+  "validUser": {
+    "email": "layssa.fdias+lojaebac@gmail.com",
+    "password": "teste@teste.com"
+  },
+  "invalidPassword": {
+    "email": "layssa.fdias+lojaebac@gmail.com",
+    "password": "senhaincorreta"
+  },
+  "nonExistentUser": {
+    "email": "usuario_inexistente@invalido.com",
+    "password": "teste@teste.com"
+  }
+}
